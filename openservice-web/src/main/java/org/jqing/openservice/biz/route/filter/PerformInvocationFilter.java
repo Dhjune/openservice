@@ -3,5 +3,7 @@ package org.jqing.openservice.biz.route.filter;
 /**
  * Created by user on 2016/1/13.
  */
-public class AuthFilter extends  AbstractFilter{
+public class PerformInvocationFilter extends  AbstractFilter{
+
+
 }
