@@ -5,4 +5,5 @@ package org.jqing.openservice.biz.route.filter;
  */
 public class ProcessResultFilter extends AbstractFilter{
 
+
 }
