@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="openservice-web:war">
+    <output-path>$PROJECT_DIR$/openservice-web/target</output-path>
+    <root id="archive" name="openservice-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="openservice-web:war exploded" />
+    </root>
+  </artifact>
+</component>
