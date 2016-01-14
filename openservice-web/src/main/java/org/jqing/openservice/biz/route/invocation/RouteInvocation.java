@@ -6,13 +6,9 @@ import org.jqing.openservice.biz.route.response.Response;
 
 import java.util.List;
 
-/**
- *
- */
 public class RouteInvocation implements  Invocation{
 
     public boolean prepare(Request request, Response response) {
-
         return false;
     }
 
@@ -27,4 +23,5 @@ public class RouteInvocation implements  Invocation{
     public void setParameters(List<SimpleParam> parameters) {
 
     }
+
 }
